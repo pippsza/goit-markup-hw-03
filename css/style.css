@@ -58,7 +58,7 @@ body {
   border-bottom: 1px solid #e7e9fc;
 }
 .heder-first {
-  width: 496px;
+  max-width: 496px;
   margin: auto;
   line-height: 1.07;
   font-size: 56px;
@@ -125,10 +125,10 @@ h3 {
   padding-bottom: 120px;
 }
 .sec-order {
+  padding: 188px 0;
   background-color: #2e2f42;
 }
 .heder-flex {
-  padding: 24px 0;
   gap: 40px;
   display: flex;
 }
@@ -175,6 +175,11 @@ button {
   cursor: pointer;
 }
 .butt-order {
+  height: 56px;
+  border: none;
+  border-radius: 4px;
+  min-width: 169px;
+  display: block;
   line-height: 1.5;
   color: white;
   background-color: #4d5ae5;
