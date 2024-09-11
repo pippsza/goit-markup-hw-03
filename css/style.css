@@ -25,6 +25,25 @@
   font-style: normal;
 } */
 
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+img {
+  display: block;
+}
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -34,8 +53,12 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
+.heder {
+  border-bottom: 1px solid #e7e9fc;
+}
 .heder-first {
+  width: 496px;
+  margin: auto;
   line-height: 1.07;
   font-size: 56px;
   font-weight: 700;
@@ -43,7 +66,15 @@ body {
   text-align: center;
   color: white;
 }
+.container {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
 .heder-list {
+  display: flex;
+
   font-weight: 500;
 }
 .footer-class {
@@ -86,6 +117,10 @@ h3 {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
+}
+section {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .sec-order {
   background-color: #2e2f42;
@@ -164,7 +199,7 @@ p {
 
 .contacts {
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .our-team-section {
