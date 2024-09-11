@@ -82,7 +82,10 @@ body {
 .footer-class {
   background-color: #2e2f42;
 }
-
+.div-team {
+  padding: 32px 0;
+  text-align: center;
+}
 .artcle {
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
