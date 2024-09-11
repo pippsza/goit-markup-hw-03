@@ -100,7 +100,7 @@ body {
   display: flex;
   gap: 24px;
 }
-.sec-benefits > li {
+.benefits-list {
   width: calc((100% - 72px) / 4);
 }
 .visually-hidden {
