@@ -202,6 +202,7 @@ p {
   letter-spacing: 0.02em;
 }
 .logo-web {
+  padding: 24px 0;
   margin-right: 76px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
