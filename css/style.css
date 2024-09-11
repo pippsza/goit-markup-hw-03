@@ -80,6 +80,7 @@ body {
   font-weight: 500;
 }
 .footer-class {
+  padding: 100px 0;
   background-color: #2e2f42;
 }
 .div-team {
@@ -237,6 +238,10 @@ p {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
+}
+.logo-footer {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .logo-web {
   padding: 24px 0;
