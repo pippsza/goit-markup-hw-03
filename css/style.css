@@ -128,6 +128,7 @@ h3 {
   background-color: #2e2f42;
 }
 .heder-flex {
+  padding: 24px 0;
   gap: 40px;
   display: flex;
 }
