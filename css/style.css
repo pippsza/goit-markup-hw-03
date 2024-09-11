@@ -54,6 +54,7 @@ body {
   background-color: #ffffff;
 }
 .heder {
+  padding: 24px 0;
   border-bottom: 1px solid #e7e9fc;
 }
 .heder-first {
@@ -74,6 +75,7 @@ body {
 
 .heder-list {
   display: flex;
+  gap: 40px;
 
   font-weight: 500;
 }
@@ -126,6 +128,7 @@ h3 {
   background-color: #2e2f42;
 }
 .heder-flex {
+  gap: 40px;
   display: flex;
 }
 .nav-flex {
@@ -149,6 +152,8 @@ a {
 }
 
 .info {
+  display: flex;
+  gap: 40px;
   color: #434455;
 }
 .info:hover {
@@ -206,7 +211,6 @@ p {
 }
 
 .contacts {
-  gap: 40px;
   font-style: normal;
   font-weight: 400;
 }
