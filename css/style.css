@@ -150,7 +150,15 @@ a {
 .navigation:focus {
   color: #404bbf;
 }
-
+.info-item {
+  color: #434455;
+}
+.info-item:focus {
+  color: #404bbf;
+}
+.info-item:hover {
+  color: #404bbf;
+}
 .info {
   padding: 24px 0;
   display: flex;
