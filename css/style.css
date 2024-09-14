@@ -252,7 +252,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  row-gap: 24px;
+  row-gap: 48px;
 }
 .logo-footer {
   display: inline-block;
