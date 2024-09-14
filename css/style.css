@@ -178,12 +178,15 @@ a {
 .navigation {
   color: #2e2f42;
   font-weight: 500;
+  padding: 24px 0;
 }
 .navigation:hover {
   color: #404bbf;
+  padding: 24px 0;
 }
 .navigation:focus {
   color: #404bbf;
+  padding: 24px 0;
 }
 .info-item {
   padding: 24px 0;
