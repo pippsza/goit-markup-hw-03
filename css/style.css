@@ -186,6 +186,7 @@ a {
   color: #404bbf;
 }
 .info-item {
+  padding: 24px 0;
   color: #434455;
 }
 .info-item:focus {
